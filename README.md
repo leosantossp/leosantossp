@@ -20,10 +20,6 @@
 - Aplicações SaaS e sistemas de pagamento
 - Desenvolvimento de sistemas com foco em **produtividade** e **crescimento**
 
-## 📫 Contato
-
-Se quiser trocar uma ideia ou discutir sobre sistemas, automação ou dev em geral, me chama no [LinkedIn](https://www.linkedin.com/) ou abre uma issue em algum repositório.
-
 ### GitHub Status
 <div>
 <a href="https://github.com/danielBRTanimacao">
